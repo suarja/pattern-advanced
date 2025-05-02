@@ -43,7 +43,7 @@ MyGovernor (Implementation)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/governance-patterns
+git clone https://github.com/suarja/pattern-advanced
 cd governance-patterns
 
 # Install dependencies
